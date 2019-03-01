@@ -410,9 +410,11 @@ defeating
 defeats
 defender
 deference
+deforestation
 deft
 deginified
 delectable
+deleterious
 delicacy
 delicate
 delicious
@@ -428,6 +430,7 @@ deserving
 desirable
 desiring
 desirous
+desperate
 destiny
 detachable
 devout
@@ -611,11 +614,6 @@ exaltingly
 examplar
 examplary
 excallent
-exceed
-exceeded
-exceeding
-exceedingly
-exceeds
 excel
 exceled
 excelent
@@ -674,6 +672,8 @@ faith
 faithful
 faithfully
 faithfulness
+fall
+falling
 fame
 famed
 famous
@@ -853,10 +853,7 @@ gratifies
 gratify
 gratifying
 gratifyingly
-gratitude
-great
-greatest
-greatness
+gratitudeab
 grin
 groundbreaking
 guarantee
@@ -910,8 +907,6 @@ heroically
 heroine
 heroize
 heros
-high-quality
-high-spirited
 hilarious
 holy
 homage
@@ -944,6 +939,9 @@ idol
 idolize
 idolized
 idyllic
+illegal
+illegitimate
+illicit
 illuminate
 illuminati
 illuminating
@@ -961,6 +959,7 @@ impartially
 impassioned
 impeccable
 impeccably
+impermissible
 important
 impress
 impressed
@@ -968,6 +967,7 @@ impresses
 impressive
 impressively
 impressiveness
+improper
 improve
 improved
 improvement
@@ -1030,6 +1030,7 @@ invincible
 inviolable
 inviolate
 invulnerable
+irregular
 irreplaceable
 irreproachable
 irresistible
@@ -1075,6 +1076,7 @@ leading
 leads
 lean
 led
+left over
 legendary
 leverage
 levity
@@ -1207,6 +1209,7 @@ nobly
 noiseless
 non-violence
 non-violent
+normal
 notably
 noteworthy
 nourish
@@ -1553,6 +1556,7 @@ roomy
 rosy
 safe
 safely
+safety
 sagacity
 sagely
 saint
@@ -1874,16 +1878,19 @@ unequivocally
 unfazed
 unfettered
 unforgettable
+unlawful
 unity
 unlimited
 unmatched
 unparalleled
+unregulated
 unquestionable
 unquestionably
 unreal
 unrestricted
 unrivaled
 unselfish
+unwanted
 unwavering
 upbeat
 upgradable
