@@ -82,9 +82,6 @@ aggression
 aggressive
 aggressiveness
 aggressor
-aggrieve
-aggrieved
-aggrivation
 aghast
 agonies
 agonize
@@ -110,6 +107,7 @@ allergic
 allergies
 allergy
 aloof
+alot
 altercation
 ambiguity
 ambiguous
@@ -123,21 +121,9 @@ anarchist
 anarchistic
 anarchy
 anemic
-anger
-angrily
-angriness
-angry
-anguish
 animosity
 annihilate
 annihilation
-annoy
-annoyance
-annoyances
-annoyed
-annoying
-annoyingly
-annoys
 anomalous
 anomaly
 antagonism
@@ -166,6 +152,7 @@ apathetically
 apathy
 apocalypse
 apocalyptic
+apogee
 apologist
 apologists
 appal
@@ -317,11 +304,6 @@ betraying
 betrays
 bewail
 beware
-bewilder
-bewildered
-bewildering
-bewilderingly
-bewilderment
 bewitch
 bias
 biased
@@ -404,11 +386,6 @@ boredom
 bores
 boring
 botch
-bother
-bothered
-bothering
-bothers
-bothersome
 bowdlerize
 boycott
 braggart
@@ -519,6 +496,7 @@ capricious
 capriciously
 capriciousness
 capsize
+carcinogenic
 careless
 carelessness
 caricature
@@ -574,6 +552,7 @@ choke
 choleric
 choppy
 chore
+chromium
 chronic
 chunky
 clamor
@@ -793,6 +772,7 @@ crush
 crushed
 crushing
 cry
+culmination
 culpable
 culprit
 cumbersome
@@ -904,10 +884,7 @@ defy
 degenerate
 degenerately
 degeneration
-degradation
-degrade
-degrading
-degradingly
+degrading a lot
 dehumanization
 dehumanize
 deign
@@ -993,9 +970,6 @@ desolation
 despair
 despairing
 despairingly
-desperate
-desperately
-desperation
 despicable
 despicably
 despise
@@ -1423,8 +1397,6 @@ dunce
 dungeon
 dungeons
 dupe
-dust
-dusty
 dwindling
 dying
 earsplitting
@@ -1466,8 +1438,6 @@ enflame
 engulf
 enjoin
 enmity
-enrage
-enraged
 enraging
 enslave
 entangle
@@ -1553,11 +1523,8 @@ extraneous
 extravagance
 extravagant
 extravagantly
-extremism
-extremist
-extremists
+extreme
 eyesore
-f**k
 fabricate
 fabrication
 facetious
@@ -1784,16 +1751,7 @@ frown
 froze
 frozen
 fruitless
-fruitlessly
-frustrate
-frustrated
-frustrates
-frustrating
-frustratingly
-frustration
-frustrations
-fuck
-fucking
+fruitlesslyp
 fudge
 fugitive
 full-blown
@@ -1805,7 +1763,6 @@ fundamentalism
 funky
 funnily
 funny
-furious
 furiously
 furor
 fury
@@ -1879,6 +1836,8 @@ grate
 grating
 gravely
 greasy
+great
+great irritation
 greed
 greedy
 grief
@@ -2005,6 +1964,8 @@ heartbreaking
 heartbreakingly
 heartless
 heathen
+heavily
+heavily polluted
 heavy-handed
 heavyhearted
 heck
@@ -2035,6 +1996,8 @@ hestitant
 hideous
 hideously
 hideousness
+high
+highly
 high-priced
 hiliarious
 hinder
@@ -2127,12 +2090,6 @@ ill-sorted
 ill-tempered
 ill-treated
 ill-treatment
-ill-usage
-ill-used
-illegal
-illegally
-illegitimate
-illicit
 illiterate
 illness
 illogic
@@ -2147,6 +2104,7 @@ imbecile
 imbroglio
 immaterial
 immature
+immediate
 imminence
 imminently
 immobilized
@@ -2177,7 +2135,6 @@ imperialist
 imperil
 imperious
 imperiously
-impermissible
 impersonal
 impertinent
 impetuous
@@ -2216,8 +2173,7 @@ imprisonment
 improbability
 improbable
 improbably
-improper
-improperly
+impromptu
 impropriety
 imprudence
 imprudent
@@ -2236,10 +2192,6 @@ inaccuracy
 inaccurate
 inaccurately
 inaction
-inactive
-inadequacy
-inadequate
-inadequately
 inadverent
 inadverently
 inadvisable
@@ -2338,6 +2290,7 @@ indoctrinate
 indoctrination
 indolent
 indulge
+industrial waste
 ineffective
 ineffectively
 ineffectiveness
@@ -2465,6 +2418,7 @@ insolvent
 insouciance
 instability
 instable
+instant
 instigate
 instigator
 instigators
@@ -2557,8 +2511,6 @@ irrecoverably
 irredeemable
 irredeemably
 irreformable
-irregular
-irregularity
 irrelevance
 irrelevant
 irreparable
@@ -2571,14 +2523,7 @@ irresponsibly
 irretating
 irretrievable
 irreversible
-irritable
-irritably
-irritant
-irritate
-irritated
 irritating
-irritation
-irritations
 isolate
 isolated
 isolation
@@ -2679,6 +2624,7 @@ lawlessness
 layoff
 layoff-happy
 lazy
+lead acid
 leak
 leakage
 leakages
@@ -2756,6 +2702,8 @@ losing
 loss
 losses
 lost
+lot
+lot of
 loud
 louder
 lousy
@@ -2824,6 +2772,7 @@ martyrdom-seeking
 mashed
 massacre
 massacres
+massive
 matte
 mawkish
 mawkishly
@@ -2848,6 +2797,8 @@ mendacity
 menial
 merciless
 mercilessly
+mercury
+mercury wastes
 mess
 messed
 messes
@@ -2972,6 +2923,8 @@ mourn
 mourner
 mournful
 mournfully
+much anger
+much anguish
 muddle
 muddy
 mudslinger
@@ -3051,6 +3004,7 @@ notoriety
 notorious
 notoriously
 noxious
+nuclear accidents
 nuisance
 numb
 obese
@@ -3238,14 +3192,11 @@ paucity
 pauper
 paupers
 payback
+peak
 peculiar
 peculiarly
 pedantic
 peeled
-peeve
-peeved
-peevish
-peevishly
 penalize
 penalty
 perfidious
@@ -3298,6 +3249,7 @@ pillage
 pillory
 pimple
 pinch
+pinnacle
 pique
 pitiable
 pitiful
@@ -3327,11 +3279,6 @@ poisonously
 pokey
 poky
 polarisation
-polemize
-pollute
-polluter
-polluters
-polution
 pompous
 poor
 poorer
@@ -3434,10 +3381,12 @@ racism
 racist
 racists
 racy
+radiation spills
 radical
 radicalization
 radically
 radicals
+radioactive
 rage
 ragged
 raging
@@ -3454,11 +3403,6 @@ ranted
 ranting
 rantingly
 rants
-rape
-raped
-raping
-rascal
-rascals
 rash
 rattle
 rattled
@@ -3762,7 +3706,6 @@ setbacks
 sever
 severe
 severity
-sh*t
 shabby
 shadowy
 shady
@@ -4319,6 +4262,7 @@ treacherously
 treachery
 treason
 treasonous
+tremendous
 trick
 tricked
 trickery
@@ -4618,11 +4562,8 @@ venom
 venomous
 venomously
 vent
+very
 vestiges
-vex
-vexation
-vexing
-vexingly
 vibrate
 vibrated
 vibrates
@@ -4683,11 +4624,6 @@ warp
 warped
 wary
 washed-out
-waste
-wasted
-wasteful
-wastefulness
-wasting
 water-down
 watered-down
 wayward
@@ -4780,4 +4716,5 @@ zaps
 zealot
 zealous
 zealously
+zenith
 zombie
